@@ -16,7 +16,11 @@
 
 ```bash
 # 下载安装脚本
-curl -fsSL <URL> | bash
+curl -fsSL 'https://github.com/IridiumNan/tmp-guard/releases/download/v0.1/install.sh' | bash
+
+```
+
+```bash
 
 # 或者手动安装
 mkdir -p ~/.local/bin

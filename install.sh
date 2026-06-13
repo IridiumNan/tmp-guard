@@ -5,8 +5,7 @@ set -euo pipefail
 # tmp-guard 安装脚本
 # ============================================================
 
-# 下载地址（留空，发布时填写）
-SRC=''
+SRC='https://github.com/IridiumNan/tmp-guard/releases/download/v0.1/tmp-guard.py'
 
 # 目标路径
 BIN_DIR="$HOME/.local/bin"
